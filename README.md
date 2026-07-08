@@ -85,4 +85,4 @@ jupyter notebook notebooks/hotel_booking_eda.ipynb
 ## 👤 Author
 
 Syed Naveed Ur Rehman Bokhari
-[LinkedIn Profile] | [GitHub Profile]
+[SYED NAVEED ] | [Naveedshah1450]
